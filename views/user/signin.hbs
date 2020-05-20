@@ -1,0 +1,37 @@
+
+
+<div class="pen-title">
+    <h1>Login Form</h1>
+</div>
+<!-- Form Module-->
+<div class="module form-module">
+    <div class="toggle">
+        <div><a href="signup" style="color: white">Login</a> </div><i class="fa fa-times fa-pencil"></i>
+    </div>
+    <div class="form">
+        <h2>Login to your account</h2>
+        {{#if hasErrors}}
+            <div class="alert alert-danger">
+                {{# each messages}}
+                    <p>{{this}}</p>
+                {{/each}}
+            </div>
+
+        {{/if}}
+        <form action="../user/signin" method="post">
+            <div>
+            <input type="email" name="email" id="email"  placeholder="Email" />
+            </div>
+
+            <div>
+            <input type="password" name="password" id="password"  placeholder="Password" />
+            </div>
+
+            <input type="hidden" name="_csrf" value="{{csrfToken}}">
+            <button type="submit">Login</button>
+        </form>
+
+    </div>
+
+</div>
+

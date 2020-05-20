@@ -1,0 +1,30 @@
+
+<div class="pen-title">
+    <h1>Signup Form</h1>
+</div>
+
+<div class="module form-module">
+    <div class="toggle">
+        <div><a href="signin" style="color: white">Register</a> </div><i class="fa fa-times fa-pencil"></i>
+    </div>
+    <div class="form">
+        <h2>Create an account </h2>
+        {{#if hasErrors}}
+            <div class="alert alert-danger">
+                {{# each messages}}
+                    <p>{{this}}</p>
+                {{/each}}
+            </div>
+        {{/if}}
+
+        <form action="../user/signup" method="post">
+            <input type="text" id="name" name="name"  placeholder="Name" />
+            <input type="email" id="email" name="email"  placeholder="Email Address" />
+            <input type="password" id="password" name="password"  placeholder="Password" />
+            <input type="text" id="phone" name="phone"  placeholder="Phone" />
+            <input type="hidden" name="_csrf" value="{{csrfToken}}">
+            <button type="submit">Register</button>
+        </form>
+    </div>
+</div>
+
