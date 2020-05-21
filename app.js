@@ -24,7 +24,8 @@ var shopRouter =require('./routes/shop');
 var app = express();
 app.set('port',(process.env.PORT || 5000));
 
-mongoose.connect('mongodb://localhost:27017/canteen',{useNewUrlParser: true, useUnifiedTopology: true});
+//mongoose.connect('mongodb://localhost:27017/canteen',{useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect('mongodb://abc:z1y2x3w4@ds123003.mlab.com:23003/heroku_jkr2lql2',{useNewUrlParser: true, useUnifiedTopology: true});
 require('./config/passport');
 
 // view engine setup

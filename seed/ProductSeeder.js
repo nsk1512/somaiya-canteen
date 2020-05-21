@@ -2,8 +2,8 @@ var Product = require('../models/product');
 
 var mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost:27017/canteen',{useNewUrlParser: true, useUnifiedTopology: true});
-
+//mongoose.connect('mongodb://localhost:27017/canteen',{useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect('mongodb://abc:z1y2x3w4@ds123003.mlab.com:23003/heroku_jkr2lql2',{useNewUrlParser: true, useUnifiedTopology: true});
 
 var products = [
     new Product({
