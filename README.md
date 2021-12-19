@@ -13,10 +13,15 @@
 * [ExpressJS](https://expressjs.com/en/starter/generator.html)
 * [MongoDB](https://docs.mongodb.com/)
 * [Handlebars](https://handlebarsjs.com/)
-<h3> Home Page <h3>
-![BLOCKDIAGRAM](./blockdiagram.PNG)
+   
+<h3>1. HomePage <h3>
+   
+   ![home](./homepage.PNG)
 
-<h3> Deal of the day <h3>
+<h3>2. Deal of the day <h3>
+   
+    ![deal](./dealday.PNG)
+   
    <h3> Signup <h3>
       <h3> Sign-in <h3>
          <h3> User Profile <h3>
