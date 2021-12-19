@@ -4,3 +4,11 @@
 </p>
 
 <h1> Block Diagram <h1>
+   
+![BLOCKDIAGRAM](./blockdiagram.PNG)
+
+### Built With
+
+* [NodeJS](https://nodejs.org/en/)
+* [ExpressJS](https://expressjs.com/en/starter/generator.html)
+* [MongoDB](https://docs.mongodb.com/)
