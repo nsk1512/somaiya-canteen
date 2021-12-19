@@ -45,3 +45,13 @@
 <h3> Confirmation email <h3>
    
    ![email](/confirm.PNG)
+   
+  
+<!-- CONTACT -->
+## Contact the developers
+
+Nandita  - nandita.kadam@somaiya.edu
+
+Krisha - krisha.panchamia@somaiya.edu
+
+
