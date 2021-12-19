@@ -30,19 +30,19 @@
    
    ![login](/signin.PNG)
    
-<h3> Cart and star rating <h3>
+<h3>5. Cart and star rating <h3>
    
    ![cart](/cart.PNG)
    
-<h3> Checkout page <h3>
+<h3>6. Checkout page <h3>
    
    ![checkout](/checkout.PNG)
    
-<h3> Payment with strip api <h3>
+<h3>7. Payment with strip api <h3>
    
    ![payment](/stripe.PNG)
    
-<h3> Confirmation email <h3>
+<h3>8. Confirmation email <h3>
    
    ![email](/confirm.PNG)
    
