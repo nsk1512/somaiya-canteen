@@ -20,7 +20,7 @@
 
 <h3>2. Deal of the day <h3>
    
-    ![deal](./dealday.PNG)
+    ![DEAL](./dealday.PNG)
    
    <h3> Signup <h3>
       <h3> Sign-in <h3>
