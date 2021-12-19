@@ -14,7 +14,8 @@
 * [MongoDB](https://docs.mongodb.com/)
 
 <h3> Home Page <h3>
-   ![HOME](./homepage.PNG)
+![BLOCKDIAGRAM](./blockdiagram.PNG)
+
 <h3> Deal of the day <h3>
    <h3> Signup <h3>
       <h3> Sign-in <h3>
