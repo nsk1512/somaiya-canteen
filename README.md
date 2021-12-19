@@ -23,14 +23,25 @@
    ![deal](/dealday.PNG)
    
 <h3>3. Signup <h3>
+   
    ![register](/signup.PNG)
-      <h3>4. Sign-in <h3>
-         ![login](/signin.PNG)
-    <h3> Cart and star rating <h3>
-       ![cart](/cart.PNG)
-               <h3> Checkout page <h3>
-                  ![checkout](/checkout.PNG)
-                  <h3> Payment with strip api <h3>
-                     ![payment](/stripe.PNG)
-                     <h3> Confirmation email <h3>
-                        ![email](/confirm.PNG)
+  
+<h3>4. Sign-in <h3>
+   
+   ![login](/signin.PNG)
+   
+<h3> Cart and star rating <h3>
+   
+   ![cart](/cart.PNG)
+   
+<h3> Checkout page <h3>
+   
+   ![checkout](/checkout.PNG)
+   
+<h3> Payment with strip api <h3>
+   
+   ![payment](/stripe.PNG)
+   
+<h3> Confirmation email <h3>
+   
+   ![email](/confirm.PNG)
